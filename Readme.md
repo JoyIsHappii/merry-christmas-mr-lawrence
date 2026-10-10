@@ -1,7 +1,7 @@
 # Merry Christmas, Mr. Lawrence — A Scroll Story
 
-- **Live site:** https://merry-christmasmr-lawrence-ncb3rlc3f-joyishappii.vercel.app
-- **Repo:** https://github.com/Cornerstone-CICCC/m1-0126-wd301-wd302-story-telling-website-joyishappii
+- **Live site:** https://merry-christmasmr-lawrence.vercel.app
+- **Repo:** https://github.com/JoyIsHappii/merry-christmas_mr-lawrence.git
 - **Author:** Joy ([@JoyIsHappii](https://github.com/JoyIsHappii))
 - **Story in one sentence:** A personal listening note on Ryuichi Sakamoto's *Merry Christmas, Mr. Lawrence*, following the piece from its first quiet note to the life it found after the 1983 film.
 
